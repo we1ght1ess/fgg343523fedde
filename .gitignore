@@ -1,0 +1,7 @@
+**/__pycache__
+venv
+node_modules
+.vscode
+.DS_Store
+.idea
+*.excalidraw
